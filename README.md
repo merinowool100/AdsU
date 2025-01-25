@@ -21,3 +21,10 @@
 * 概要図：ppt参照
 * UI & ワイヤーフレーム：Figma参照
 * DB：Excel参照
+id uid uphone upass
+uid registered lastLogin
+uid totalTimeView
+uid withdrawal dateWithdraw
+uid earned dateEarne
+uid balance earnedTotal withdrawTotal
+
